@@ -11,7 +11,7 @@
                     <input type="radio" name="radio" value="1" checked><b> Escolha Uma Opção Abaixo!</b><br>
                     <input type="radio" name="radio" value="Mensalidade"> Mens. Sociais<br>
                     <input type="radio" name="radio" value="Filiação"> Filiação<br>
-                    <input type="radio" name="radio" value="Taxa Administração"> Taxa adm<br>
+                    <input type="radio" name="radio" value="Taxa"> Taxa adm<br>
                     <input type="radio" name="radio" value="Xerox"> Xerox <br>
                     <input type="radio" name="radio" value="Cheque"> Cheque <br>
                     <input type="radio" name="radio" value="Base"> Coord. de Base<br><br>
